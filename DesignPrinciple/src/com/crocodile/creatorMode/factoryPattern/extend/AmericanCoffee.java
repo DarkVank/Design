@@ -1,8 +1,0 @@
-package com.crocodile.creatorMode.factoryPattern.extend;
-
-public class AmericanCoffee extends Coffee{
-    @Override
-    public String getName() {
-        return "美式咖啡";
-    }
-}
